@@ -75,3 +75,36 @@ https://github.com/Akash-Subramanya1/NammaNala
 
 Akash Subramanya C S
 
+
+
+
+## Application Screenshots
+
+### Login Screen
+<img width="139" height="313" alt="screenshotslogin" src="https://github.com/user-attachments/assets/c8228937-e6e4-4a62-8017-22a0e8f40c32" />
+
+
+### Admin Dashboard
+
+![Dashboard](<img width="162" height="360" alt="Screenshots_admindashboard" src="https://github.com/user-attachments/assets/4b614b85-c75c-4d8d-89b8-717c7e3bd227" />
+)
+
+### Farmer Home Screen
+
+![Home](<img width="169" height="361" alt="screenshot_homescreen" src="https://github.com/user-attachments/assets/726856b8-faa3-4737-9308-0dcccb39543c" />
+)
+
+### Report Issue Screen
+
+![Report](<img width="164" height="369" alt="Screenshots_reportissue_screen" src="https://github.com/user-attachments/assets/982b33e6-3742-438e-bd37-41c71c865f88" />
+)
+
+### Maps Monitoring
+
+![Maps](<img width="716" height="1600" alt="screenshots_map" src="https://github.com/user-attachments/assets/9788e4bd-484c-40dd-a7f2-d87a84aeb976" />
+)
+
+### View reports
+
+![View]<img width="167" height="365" alt="Screenshots_canalreport" src="https://github.com/user-attachments/assets/6027f9b4-f7f7-4f71-b20f-a1f66010a03e" />
+
